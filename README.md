@@ -12,3 +12,5 @@ Steps:
 5. build data model
 6. design the dashboard
 
+Google Drive Link:
+https://drive.google.com/drive/folders/1TvZg0qqM68VA9Elo32GMnydjv8Y_IuQx?usp=sharing
